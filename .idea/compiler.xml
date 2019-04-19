@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="mod.sandbox.mod-sandbox.ast" target="1.8" />
+      <module name="mod.sandbox.mod-sandbox.integrationTest" target="1.8" />
+      <module name="mod.sandbox.mod-sandbox.main" target="1.8" />
+      <module name="mod.sandbox.mod-sandbox.test" target="1.8" />
+      <module name="web.sandbox.web-sandbox.integrationTest" target="1.8" />
+      <module name="web.sandbox.web-sandbox.main" target="1.8" />
+      <module name="web.sandbox.web-sandbox.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

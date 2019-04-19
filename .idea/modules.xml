@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/grails-multimodules.iml" filepath="$PROJECT_DIR$/grails-multimodules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-sandbox/mod.sandbox.mod-sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-sandbox/mod.sandbox.mod-sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-sandbox/mod.sandbox.mod-sandbox.ast.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-sandbox/mod.sandbox.mod-sandbox.ast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-sandbox/mod.sandbox.mod-sandbox.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-sandbox/mod.sandbox.mod-sandbox.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-sandbox/mod.sandbox.mod-sandbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-sandbox/mod.sandbox.mod-sandbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-sandbox/mod.sandbox.mod-sandbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-sandbox/mod.sandbox.mod-sandbox.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-sandbox/web.sandbox.web-sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/web-sandbox/web.sandbox.web-sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-sandbox/web.sandbox.web-sandbox.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/web-sandbox/web.sandbox.web-sandbox.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-sandbox/web.sandbox.web-sandbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-sandbox/web.sandbox.web-sandbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-sandbox/web.sandbox.web-sandbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-sandbox/web.sandbox.web-sandbox.test.iml" />
+    </modules>
+  </component>
+</project>
